@@ -4,7 +4,7 @@ How to download and build the project.
 - Open command line (e.g. Git Bash)
 - Go to directory where you want store source code of project (using cd command)
 - Clone repository using the following command:
-		git clone https://github.com/comiplae/mvn_testrepo.git mvn_testrepo
+		git clone https://github.com/comiplae/mvn_testrepo.git
 
 2. Building the project:
 - Go to project directory where pom.xml is located.
